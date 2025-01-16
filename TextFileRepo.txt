@@ -1,0 +1,3 @@
+Hello guys,
+
+This is local file in working dir.
